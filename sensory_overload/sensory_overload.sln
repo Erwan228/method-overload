@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sensory_overload", "sensory_overload.csproj", "{7D2BB41E-E548-4D52-9D05-9A8FB1775AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2BB41E-E548-4D52-9D05-9A8FB1775AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2BB41E-E548-4D52-9D05-9A8FB1775AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2BB41E-E548-4D52-9D05-9A8FB1775AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2BB41E-E548-4D52-9D05-9A8FB1775AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA9282C-26B7-4EEC-8A66-C0A66B452C7B}
+	EndGlobalSection
+EndGlobal
